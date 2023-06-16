@@ -1,4 +1,3 @@
-### Hey :wave:
 
 👋  My name is Asad I like to write code, train vision and multimodal ML models and deploy them in production
 
